@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+div.policy
+{
+	width:400px;
+	margin-left:40px;
+}
+
+div.partynews
+{
+	width:400px;
+	margin-right:40px;
+}
+
+div.headerbg
+{
+	background-image:url(../images/sliderbg.jpg);
+	height:136px;
+}
+
+div.pos_carousel
+{
+	margin-top:40px;
+}
+
+div.sidenav
+{
+	background-color:#F3F3F3;
+}
+
+div.myfooter
+{
+	margin-bottom:2px;
+}
+
+div.answerform
+{
+	margin-top:150px;
+}
